@@ -28,9 +28,13 @@ After importing our previously created "WeatherPy_Database.csv", we prompted the
 
 ### Deliverable 3
 
-Using our 
-<img src='Vacation_Itinerary/WeatherPy_travel_map.png'>
+Looking through our map of markers, we identified 4 in Austrailia that looked like a good place for vacationing:
 <img src='Vacation_Itinerary/WeatherPy_travel_map_markers.png'>
+We enabled Google's Directions API and generated a route to travel to these cities:
+<img src='Vacation_Itinerary/WeatherPy_travel_map.png'>
+
 ## Summary
 
-### Recommendations
+### Next Steps
+
+In order to improve the user experience the first thing we would need to do is allow for more input paramaters, such as allowing the prospective client to set humidity filters and wind speed filters.
